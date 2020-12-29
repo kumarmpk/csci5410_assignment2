@@ -1,0 +1,17 @@
+module.exports = {
+    '0':'sql error',
+    '1':'User not found. Please register',
+    '2':'User already logged in.',
+    '3':'user eligible to login',
+    '4':'user logged in',
+    '5':'Email address is already registered. Please try login.',
+    '6':'User registered successfully',
+    '7':'state update successfully',
+    '8':'user logged in and the state is inserted successfully',
+    '9':'User fetched.',
+    '10':'Backend response is not valid.',
+    '11':'Backend server down or error at backend.',
+    '12':'Logged out successfully.',
+    '13':'Mandatory fields are missing.',
+    '14':'Email is not valid.',
+}
